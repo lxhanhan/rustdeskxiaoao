@@ -614,7 +614,7 @@ class App: Reactor.Component
     }
 }
 
-class InstallMe: Reactor.Component {
+class InstallMe2: Reactor.Component {
     function render() {
         return <div .install-me>
             <span />
